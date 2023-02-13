@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '/project'
     weight: 30
-  - name: Events
+  - name: Blog
     url: '/event'
     weight: 40
   - name: Publications
