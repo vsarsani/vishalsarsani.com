@@ -14,14 +14,7 @@ sections:
       background:
         color: black
         text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+       
   - block: markdown
     content:
       title: 'Welcome 👋'
