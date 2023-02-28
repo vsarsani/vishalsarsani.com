@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '/publication'
     weight: 50
-  - name: Contact
+  - name: Software
     url: '/contact'
     weight: 60
 
