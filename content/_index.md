@@ -19,8 +19,8 @@ sections:
     content:
       subtitle: ''
       text: |-
-        I am currently a Statistical Genetics Postdoc at Harvard T.H. Chan School of Public Health, working on developing methods predicting future risk and prioritizing target genes for complex diseases from multi-omics data (GWAS, Expression, Proteomics, Metabolomics, Methylation, etc.).\
-        I completed my Ph.D. in Statistics from the University of Massachusetts Amherst and also have a Master's degree in Bioinformatics. I worked as Application Computational Scientist for 3.5 years at [The Jackson Laboratory](https://www.jax.org/). During my Ph.D., I did Biostatistics Internships at [Roche](https://www.roche.com/) and [Novartis](https://www.novartis.com/us-en/).\
+        I am an applied statistician interested in translational genetics. My primary research focus is developing methods to systematically prioritize drug targets and predict disease risk by leveraging large-scale biobanks and Multi-omics data (GWAS, Expression, Proteomics, Metabolomics, Methylation, etc.)\
+        I'm a Statistical Genetics Postdoc at Harvard T.H. Chan School of Public Health. I obtained my Ph.D. in Statistics from the University of Massachusetts Amherst and also have a Master's degree in Bioinformatics. I worked as Application Computational Scientist for 3.5 years at [The Jackson Laboratory](https://www.jax.org/). During my Ph.D., I also did Biostatistics Internships at [Roche](https://www.roche.com/) and [Novartis](https://www.novartis.com/us-en/).\
         **Specialties:** Statistical Genetics, Biostatistics, and Computational Biology
     design:
       columns: '1'
