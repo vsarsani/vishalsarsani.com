@@ -36,7 +36,7 @@ sections:
       # Filter on criteria
       filters:
         author: ""
-        category: ""
+        category: "talk"
         tag: ""
         exclude_featured: false
         exclude_future: false
