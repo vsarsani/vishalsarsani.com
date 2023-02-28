@@ -17,12 +17,12 @@ sections:
        
   - block: markdown
     content:
-      title: 'Hello'
+      title: ''
       subtitle: ''
       text: |-
-        I am an Applied Statistician with a strong background and experience in Human Genetics and Computational Biology. I am currently doing a Statistical Genetics Postdoc at Harvard T.H. Chan School of Public Health, working on developing methods predicting future risk and finding target genes for complex diseases from multi-omics data (GWAS, Expression, Proteomics, Metabolomics, Methylation, etc.). 
-        I completed my Ph.D. in Statistics from the University of Massachusetts Amherst and have a Master's in Bioinformatics. I worked as Application Computational Scientist for 3.5 years at [The Jackson Laboratory](https://www.jax.org/) and did graduate biostatistics summer internships at [Roche](https://www.roche.com/) and [Novartis](https://www.novartis.com/us-en/). 
-
+        I am an Applied Statistician with a strong background and experience in Human Genetics and Computational Biology. I am currently doing a Statistical Genetics Postdoc at Harvard T.H. Chan School of Public Health, working on developing methods predicting future risk and finding target genes for complex diseases from multi-omics data (GWAS, Expression, Proteomics, Metabolomics, Methylation, etc.). \
+        I completed my Ph.D. in Statistics from the University of Massachusetts Amherst and have a Master's in Bioinformatics. I worked as Application Computational Scientist for 3.5 years at [The Jackson Laboratory](https://www.jax.org/) and did Graduate Biostatistics summer internships at [Roche](https://www.roche.com/) and [Novartis](https://www.novartis.com/us-en/). \
+\
         **Specialties:** Statistical Genetics, Biostatistics, and Computational Biology
     design:
       columns: '1'
