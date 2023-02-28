@@ -17,7 +17,6 @@ sections:
        
   - block: markdown
     content:
-      title: ''
       subtitle: ''
       text: |-
         I am an Applied Statistician with a strong background and experience in Human Genetics and Computational Biology. I am currently doing a Statistical Genetics Postdoc at Harvard T.H. Chan School of Public Health, working on developing methods predicting future risk and finding target genes for complex diseases from multi-omics data (GWAS, Expression, Proteomics, Metabolomics, Methylation, etc.). \
