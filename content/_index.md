@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: 6e5494
+        color: denim
         text_color_light: true
        
   - block: markdown
