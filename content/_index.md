@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: darknavy
+        color: navy
         text_color_light: true
        
   - block: markdown
@@ -25,7 +25,7 @@ sections:
          \
         **Specialties:** Statistical Genetics, Biostatistics, and Computational Biology
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     content:
       title: Updates
