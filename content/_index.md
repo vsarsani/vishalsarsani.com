@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: denim
+        color: teal
         text_color_light: true
        
   - block: markdown
