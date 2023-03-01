@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: navy
+        color: grey
         text_color_light: true
        
   - block: markdown
