@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: cobalt
+        color: black
         text_color_light: true
        
   - block: markdown
