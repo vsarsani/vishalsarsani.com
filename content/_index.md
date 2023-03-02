@@ -11,9 +11,8 @@ sections:
       username: admin
       text: 
     design:
-      view:compact
       background:
-        color: black
+        color: grey
         text_color_light: true
        
   - block: markdown
