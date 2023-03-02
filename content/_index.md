@@ -11,6 +11,7 @@ sections:
       username: admin
       text: 
     design:
+      view:compact
       background:
         color: black
         text_color_light: true
